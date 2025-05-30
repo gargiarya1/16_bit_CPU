@@ -1,0 +1,135 @@
+{C:/intelFPGA/16-Bit CPU/Basics.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/Basics.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module dff
+-- Compiling module tb_dff
+
+Top level modules:
+	tb_dff
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/LogicUnit.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/LogicUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module logic
+-- Compiling module tb_logic
+
+Top level modules:
+	tb_logic
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/InstMemory.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/InstMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module instmem
+-- Compiling module tb_instmem
+
+Top level modules:
+	tb_instmem
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/RegA.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/RegA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regA
+-- Compiling module tb_regA
+
+Top level modules:
+	tb_regA
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/RegB.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/RegB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regB
+-- Compiling module tb_regB
+
+Top level modules:
+	tb_regB
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/Counter.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter4b
+-- Compiling module tb_counter4b
+
+Top level modules:
+	tb_counter4b
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/RegC.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/RegC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module regC
+-- Compiling module tb_regC
+
+Top level modules:
+	tb_regC
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/ALU.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/InstReg.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/InstReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module insReg
+
+Top level modules:
+	insReg
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/CPU.v} {2 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/CPU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CPU
+-- Compiling module tb_CPU
+** Warning: C:/intelFPGA/16-Bit CPU/CPU.v(121): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	tb_CPU
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/ArithUnit.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/ArithUnit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module arith
+-- Compiling module tb_arith
+
+Top level modules:
+	tb_arith
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/Encoder16-4.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/Encoder16-4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module encode164
+-- Compiling module tb_encode
+
+Top level modules:
+	tb_encode
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/PC.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/PC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module PC
+-- Compiling module tb_PC
+
+Top level modules:
+	tb_PC
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/DataMemory.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/DataMemory.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module datamem
+-- Compiling module tb_datamem
+
+Top level modules:
+	tb_datamem
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/MuxA.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/MuxA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module muxA
+
+Top level modules:
+	muxA
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/Controller.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module controller
+-- Compiling module tb_controller
+
+Top level modules:
+	tb_controller
+
+} {} {}} {C:/intelFPGA/16-Bit CPU/MuxB.v} {1 {vlog -work work -stats=none {C:/intelFPGA/16-Bit CPU/MuxB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module muxB
+
+Top level modules:
+	muxB
+
+} {} {}}

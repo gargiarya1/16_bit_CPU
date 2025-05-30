@@ -1,0 +1,676 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+Z0 !s110 1748600587
+!i10b 1
+!s100 UX51Ebln]Q=V`>X1:hOQX1
+IE4Az;f>W1QV1Zz6oVY_2i2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/intelFPGA/16-Bit CPU
+Z3 w1700135575
+Z4 8C:/intelFPGA/16-Bit CPU/ALU.v
+Z5 FC:/intelFPGA/16-Bit CPU/ALU.v
+L0 6
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1748600587.000000
+Z8 !s107 C:/intelFPGA/16-Bit CPU/ALU.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/ALU.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u
+varith
+R0
+!i10b 1
+!s100 WKTCDkJ@I>Zm[^UT6BgQj3
+IEF7Y@o;ESCQC@UP6[AaZ73
+R1
+R2
+Z12 w1700138188
+Z13 8C:/intelFPGA/16-Bit CPU/ArithUnit.v
+Z14 FC:/intelFPGA/16-Bit CPU/ArithUnit.v
+L0 6
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/intelFPGA/16-Bit CPU/ArithUnit.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/ArithUnit.v|
+!i113 1
+R10
+R11
+vcontroller
+R0
+!i10b 1
+!s100 EjnGKD_SNm;7LUF:[_1QC1
+IO=VPG@67IT[iZXRF3K[T92
+R1
+R2
+Z17 w1700146341
+Z18 8C:/intelFPGA/16-Bit CPU/Controller.v
+Z19 FC:/intelFPGA/16-Bit CPU/Controller.v
+L0 5
+R6
+r1
+!s85 0
+31
+R7
+Z20 !s107 C:/intelFPGA/16-Bit CPU/Controller.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/Controller.v|
+!i113 1
+R10
+R11
+vcounter4b
+Z22 !s110 1748600588
+!i10b 1
+!s100 1HL6kGY8@@7_bVXfcQ`@T1
+Ilbdk4EXi`CQc4z;;W1^RX2
+R1
+R2
+Z23 w1700146459
+Z24 8C:/intelFPGA/16-Bit CPU/Counter.v
+Z25 FC:/intelFPGA/16-Bit CPU/Counter.v
+L0 10
+R6
+r1
+!s85 0
+31
+Z26 !s108 1748600588.000000
+Z27 !s107 C:/intelFPGA/16-Bit CPU/Counter.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/Counter.v|
+!i113 1
+R10
+R11
+vCPU
+Z29 !s110 1748600676
+!i10b 1
+!s100 9FmAAT6VBWS:88=bh^U2W1
+I:86`d[?3RUXo?Fabb4l9i3
+R1
+R2
+Z30 w1700152459
+Z31 8C:/intelFPGA/16-Bit CPU/CPU.v
+Z32 FC:/intelFPGA/16-Bit CPU/CPU.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z33 !s108 1748600675.000000
+Z34 !s107 C:/intelFPGA/16-Bit CPU/CPU.v|
+Z35 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/CPU.v|
+!i113 1
+R10
+R11
+n@c@p@u
+vdatamem
+R22
+!i10b 1
+!s100 9IRTU0kTFha:2aUSMFD<Z0
+I2AlA>UX8]JfXcJ8fg3Lb01
+R1
+R2
+Z36 w1700151356
+Z37 8C:/intelFPGA/16-Bit CPU/DataMemory.v
+Z38 FC:/intelFPGA/16-Bit CPU/DataMemory.v
+L0 6
+R6
+r1
+!s85 0
+31
+R26
+Z39 !s107 C:/intelFPGA/16-Bit CPU/DataMemory.v|
+Z40 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/DataMemory.v|
+!i113 1
+R10
+R11
+vdff
+R0
+!i10b 1
+!s100 zfjC>_M3BDRHZmDPE8_e^1
+IC0j4M4]]:R_bWR^K1@<>?2
+R1
+R2
+Z41 w1700146133
+Z42 8C:/intelFPGA/16-Bit CPU/Basics.v
+Z43 FC:/intelFPGA/16-Bit CPU/Basics.v
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+Z44 !s107 C:/intelFPGA/16-Bit CPU/Basics.v|
+Z45 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/Basics.v|
+!i113 1
+R10
+R11
+vencode164
+R22
+!i10b 1
+!s100 7ZSNF06:NNRB>h;oOmYz73
+IGZ?aEPF2A7=E:_aG5o6J20
+R1
+R2
+Z46 w1700151493
+Z47 8C:/intelFPGA/16-Bit CPU/Encoder16-4.v
+Z48 FC:/intelFPGA/16-Bit CPU/Encoder16-4.v
+L0 7
+R6
+r1
+!s85 0
+31
+R26
+Z49 !s107 C:/intelFPGA/16-Bit CPU/Encoder16-4.v|
+Z50 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/Encoder16-4.v|
+!i113 1
+R10
+R11
+vinsReg
+R22
+!i10b 1
+!s100 koB47XML`h_E]BlZAF::z1
+I^MkN__mM87kgcR1<mB>l>3
+R1
+R2
+w1700151678
+8C:/intelFPGA/16-Bit CPU/InstReg.v
+FC:/intelFPGA/16-Bit CPU/InstReg.v
+L0 4
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/intelFPGA/16-Bit CPU/InstReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/InstReg.v|
+!i113 1
+R10
+R11
+nins@reg
+vinstmem
+R22
+!i10b 1
+!s100 cKn8dBLhOVTjd]84f57cj3
+IU52UjQ^a8zhgd9kUa0S<B1
+R1
+R2
+Z51 w1700152584
+Z52 8C:/intelFPGA/16-Bit CPU/InstMemory.v
+Z53 FC:/intelFPGA/16-Bit CPU/InstMemory.v
+L0 5
+R6
+r1
+!s85 0
+31
+R26
+Z54 !s107 C:/intelFPGA/16-Bit CPU/InstMemory.v|
+Z55 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/InstMemory.v|
+!i113 1
+R10
+R11
+vlogic
+R0
+!i10b 1
+!s100 GFdXL33_VN`Dn@00mgZza3
+IKBHI_BS4KgljH4bYQS`Y73
+R1
+R2
+Z56 w1700139103
+Z57 8C:/intelFPGA/16-Bit CPU/LogicUnit.v
+Z58 FC:/intelFPGA/16-Bit CPU/LogicUnit.v
+L0 7
+R6
+r1
+!s85 0
+31
+R7
+Z59 !s107 C:/intelFPGA/16-Bit CPU/LogicUnit.v|
+Z60 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/LogicUnit.v|
+!i113 1
+R10
+R11
+vmuxA
+R22
+!i10b 1
+!s100 ]Ug]UU77LRIRW3XE`3zo>3
+I;j;BF;Ek:>hJUnDKRWhDl1
+R1
+R2
+w1700151834
+8C:/intelFPGA/16-Bit CPU/MuxA.v
+FC:/intelFPGA/16-Bit CPU/MuxA.v
+L0 5
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/intelFPGA/16-Bit CPU/MuxA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/MuxA.v|
+!i113 1
+R10
+R11
+nmux@a
+vmuxB
+Z61 !s110 1748600589
+!i10b 1
+!s100 3E26J:7ki5>9C9ZbmSAH51
+I^KadhEFXWe@3kCf6C@DZY1
+R1
+R2
+w1700151944
+8C:/intelFPGA/16-Bit CPU/MuxB.v
+FC:/intelFPGA/16-Bit CPU/MuxB.v
+L0 5
+R6
+r1
+!s85 0
+31
+R26
+!s107 C:/intelFPGA/16-Bit CPU/MuxB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/MuxB.v|
+!i113 1
+R10
+R11
+nmux@b
+vPC
+R61
+!i10b 1
+!s100 ^blJLEA7;o38j^ZjP@]Kn0
+ITj82;aP4iV`kVLD^GjOlV3
+R1
+R2
+Z62 w1700152004
+Z63 8C:/intelFPGA/16-Bit CPU/PC.v
+Z64 FC:/intelFPGA/16-Bit CPU/PC.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z65 !s108 1748600589.000000
+Z66 !s107 C:/intelFPGA/16-Bit CPU/PC.v|
+Z67 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/PC.v|
+!i113 1
+R10
+R11
+n@p@c
+vregA
+R61
+!i10b 1
+!s100 KPOWR@W7Oc_hVd0F`:81g1
+IeUJm>dBMB6ATk2`XFH>MF2
+R1
+R2
+Z68 w1700152245
+Z69 8C:/intelFPGA/16-Bit CPU/RegA.v
+Z70 FC:/intelFPGA/16-Bit CPU/RegA.v
+L0 5
+R6
+r1
+!s85 0
+31
+R65
+Z71 !s107 C:/intelFPGA/16-Bit CPU/RegA.v|
+Z72 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/RegA.v|
+!i113 1
+R10
+R11
+nreg@a
+vregB
+R61
+!i10b 1
+!s100 DPm3HfWIgUPE6:iCcKjjI0
+IP3gP9`5bYk^1f?_D]kJ[K2
+R1
+R2
+Z73 w1700152318
+Z74 8C:/intelFPGA/16-Bit CPU/RegB.v
+Z75 FC:/intelFPGA/16-Bit CPU/RegB.v
+L0 5
+R6
+r1
+!s85 0
+31
+R65
+Z76 !s107 C:/intelFPGA/16-Bit CPU/RegB.v|
+Z77 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/RegB.v|
+!i113 1
+R10
+R11
+nreg@b
+vregC
+R61
+!i10b 1
+!s100 6X6n0fY5^5EiIG0RkNSf?0
+IghS@Cm>MSL2748l]23c?X1
+R1
+R2
+Z78 w1700152388
+Z79 8C:/intelFPGA/16-Bit CPU/RegC.v
+Z80 FC:/intelFPGA/16-Bit CPU/RegC.v
+L0 5
+R6
+r1
+!s85 0
+31
+R65
+Z81 !s107 C:/intelFPGA/16-Bit CPU/RegC.v|
+Z82 !s90 -reportprogress|300|-work|work|-stats=none|C:/intelFPGA/16-Bit CPU/RegC.v|
+!i113 1
+R10
+R11
+nreg@c
+vtb_ALU
+R0
+!i10b 1
+!s100 DQ<BOHI82nR5^hMiHn_an3
+I07D^FBUHOhCi@?P;2]Cai0
+R1
+R2
+R3
+R4
+R5
+L0 52
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+ntb_@a@l@u
+vtb_arith
+R0
+!i10b 1
+!s100 cnSdHG;HQ<ob9AnFRn`:00
+Ikg`M@0<UbSQYlWD?F[[`]1
+R1
+R2
+R12
+R13
+R14
+L0 38
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vtb_controller
+R0
+!i10b 1
+!s100 `KcXkVOg3>c7[LIW`Tz`]3
+IFMCDM3INH`^n8bF=4Hn7G1
+R1
+R2
+R17
+R18
+R19
+L0 357
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+vtb_counter4b
+R22
+!i10b 1
+!s100 3WG=ZSNZhEj1;L@KQkd??3
+IamkG0UVWInzXlWf>`dKc61
+R1
+R2
+R23
+R24
+R25
+L0 30
+R6
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R10
+R11
+vtb_CPU
+R29
+!i10b 1
+!s100 >JdQKQ8H_T9=]R:Sa7HAc1
+IHbHZcHG<^SBIHMCL8ff792
+R1
+R2
+R30
+R31
+R32
+L0 47
+R6
+r1
+!s85 0
+31
+R33
+R34
+R35
+!i113 1
+R10
+R11
+ntb_@c@p@u
+vtb_datamem
+R22
+!i10b 1
+!s100 nbiMhiP=Jk8X?S9QhQlYH2
+I4G7Qi^d;U^H^oNR:7^_kD1
+R1
+R2
+R36
+R37
+R38
+L0 34
+R6
+r1
+!s85 0
+31
+R26
+R39
+R40
+!i113 1
+R10
+R11
+vtb_dff
+R0
+!i10b 1
+!s100 O`Pi44R3i:9J]7V9TKNb:3
+ISjbA7W3PUHz:KPJjcjmhW2
+R1
+R2
+R41
+R42
+R43
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+R44
+R45
+!i113 1
+R10
+R11
+vtb_encode
+R22
+!i10b 1
+!s100 `IIfNh=J>I>c>gL[Xh7`71
+I52PTk79J6EO[8VbKT3h=@0
+R1
+R2
+R46
+R47
+R48
+L0 45
+R6
+r1
+!s85 0
+31
+R26
+R49
+R50
+!i113 1
+R10
+R11
+vtb_instmem
+R22
+!i10b 1
+!s100 Bk9bnNGg]GC^ieYHoi3hV3
+IN>IOVTj=0mV1VB<<f9f^71
+R1
+R2
+R51
+R52
+R53
+Z83 L0 33
+R6
+r1
+!s85 0
+31
+R26
+R54
+R55
+!i113 1
+R10
+R11
+vtb_logic
+R0
+!i10b 1
+!s100 f6GC2HVXbYOEFlel<?II92
+Id0ZGihdDN_[:af4Sf3Kf;1
+R1
+R2
+R56
+R57
+R58
+L0 74
+R6
+r1
+!s85 0
+31
+R7
+R59
+R60
+!i113 1
+R10
+R11
+vtb_PC
+R61
+!i10b 1
+!s100 S<Vfz<ndfSm[4BChXdY1D2
+I=okaHolYS:`=XWBze>iO22
+R1
+R2
+R62
+R63
+R64
+L0 36
+R6
+r1
+!s85 0
+31
+R65
+R66
+R67
+!i113 1
+R10
+R11
+ntb_@p@c
+vtb_regA
+R61
+!i10b 1
+!s100 0ealIX@?S_El_MkN@7gGf1
+I;VQ5eRU;X<n>Y3liSzGFc3
+R1
+R2
+R68
+R69
+R70
+R83
+R6
+r1
+!s85 0
+31
+R65
+R71
+R72
+!i113 1
+R10
+R11
+ntb_reg@a
+vtb_regB
+R61
+!i10b 1
+!s100 Ah<=FJAF^^9j1Y2L723Xz3
+I=IINg<nbf]cfH`o?0?2cn3
+R1
+R2
+R73
+R74
+R75
+R83
+R6
+r1
+!s85 0
+31
+R65
+R76
+R77
+!i113 1
+R10
+R11
+ntb_reg@b
+vtb_regC
+R61
+!i10b 1
+!s100 gIHY18Q^GPOm`fa9>Yg2_0
+ITzzJ;7a8Q6>]VWDf;B^970
+R1
+R2
+R78
+R79
+R80
+R83
+R6
+r1
+!s85 0
+31
+R65
+R81
+R82
+!i113 1
+R10
+R11
+ntb_reg@c
